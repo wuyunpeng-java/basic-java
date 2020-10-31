@@ -1,30 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dddd712e-4313-4921-be93-72600873b5b9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic-java/META-INF/basic-java.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic-java/aboutstring/StingTest_2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic-java/aboutstring/StringBudderTest1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic-java/aboutstring/StringConstructorDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic-java/aboutstring/StringSortUSE.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic-java/aboutstring/StringTest3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic-java/aboutstring/String_Execise.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic-java/aboutstring/String_execise2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic-java/包装类/WrapperTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic-java/数组/BubbleSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic-java/日期时间类/DataTimeTest2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic-java/日期时间类/DateTimeTest3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic-java/日期时间类/MyDate.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic-java/正则表达式/RegEXDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/xml-study/META-INF/xml-study.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/xml-study/jsoup/JsoupDemo1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/xml-study/jsoup/JsoupDemo2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/xml-study/jsoup/JsoupDemo3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/xml-study/jsoup/JsoupDemo4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/xml-study/jsoup/JsoupDemo5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/xml-study/jsoup/JsoupDemo6.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/xml-study/student.xml" afterDir="false" />
+    <list default="true" id="dddd712e-4313-4921-be93-72600873b5b9" name="Default Changelist" comment="添加basic-java这个工程添加到git">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -255,7 +233,7 @@
       <workItem from="1603522261291" duration="2365000" />
       <workItem from="1603693178111" duration="2023000" />
       <workItem from="1603845695196" duration="605000" />
-      <workItem from="1604121365818" duration="981000" />
+      <workItem from="1604121365818" duration="1239000" />
     </task>
     <task id="LOCAL-00001" summary="添加basic-java这个工程添加到git">
       <created>1604122336760</created>
@@ -264,7 +242,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604122336760</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="添加basic-java这个工程添加到git">
+      <created>1604122531365</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1604122531365</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -291,7 +276,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15040000" />
+    <option name="totallyTimeSpent" value="15298000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
