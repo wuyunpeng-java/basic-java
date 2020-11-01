@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>HTMLDOM</title>
+</head>
+<body>
+<div id="div1">div</div>
+<script type="text/javascript">
+    var div1 = document.getElementById("div1");
+    var innerHTML = div1.innerHTML;
+    alert(innerHTML);
+    div1.innerHTML += "<input type ='text'>";
+</script>
+</body>
+</html>

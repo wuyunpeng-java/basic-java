@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/IO/IO.iml" filepath="$PROJECT_DIR$/IO/IO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaStude-Idea.iml" filepath="$PROJECT_DIR$/JavaStude-Idea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lambda_study/Lambda_study.iml" filepath="$PROJECT_DIR$/Lambda_study/Lambda_study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Net/Net.iml" filepath="$PROJECT_DIR$/Net/Net.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdbc1/jdbc1.iml" filepath="$PROJECT_DIR$/jdbc1/jdbc1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/refectionAndAnnotation/refectionAndAnnotation.iml" filepath="$PROJECT_DIR$/refectionAndAnnotation/refectionAndAnnotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/多线程学习/多线程学习.iml" filepath="$PROJECT_DIR$/多线程学习/多线程学习.iml" />
+      <module fileurl="file://$PROJECT_DIR$/设计模式/设计模式.iml" filepath="$PROJECT_DIR$/设计模式/设计模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/集合框架/集合框架.iml" filepath="$PROJECT_DIR$/集合框架/集合框架.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,18 @@
+1 ALT + /  代码提示及补全；
+2 ALT + INSERT  弹出各种构造方法，get set方法选择框；快速重写接口（父类）方法；
+3 ctrl +shift+回车 补全结尾
+4 ctrl + j  自动代码生成模板；
+5 new A()，想要声明一下， 直接new A().var，就会生成 A a = new A()
+6 快速复制到上一行/下一行：ctrl+alt+up/down;
+7 surround with:         alt +shift + z;或者ctrl+alt+t
+8 ctrl+shift+/ 快速生成多行注释；（再按一次则为取消多行注释）
+9 删除光标所在行：ctrl + D         (eclipse同）
+10 格式化代码：Ctrl +alt + l或 ctrl+shift+f
+11 ALT +UP/DOWN                   将代码上移或下移
+12 单行注释：ctrl+/
+13 查看文中没有出现的类或方法的源码。查找 ctrl+shift+t
+14 查看继承关系：光标点击代码，后按F4 或ctrl+shift+u
+15 代码尾部自动补全(仅限右括号及分号）                              ctrl+shift+回车
+16 alt+回车     各种可选提示
+17 抽取方法 alt+shift+m
+18 查找方法在哪里被调用     ctrl+ shift + h

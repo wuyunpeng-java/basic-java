@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>查询浏览器名称及版本号</title>
+</head>
+<body>
+<!--
+为了演示方便，定义一个事件源。通过事件源的触发，获取想要的结果。
+比如通过让用户点击按钮就可获知浏览器的一些信息
+-->比如通过让用户点击按钮就可获知浏览器的一些信息
+<!--定义事件源，注册事件关联的动作。-->
+<script type="text/javascript">
+    function windowObjDemo() {
+       //想要知道浏览器的信息，就需要使用window对象中的navigator对象
+        var name = navigator.appName;
+        var version = navigator.appVersion;
+        alert(name + ":-->"+version);
+    }
+    //演示Location
+    function windowObjDemo2() {
+        var prot = location.protocol;
+        var text = location.href;
+        alert(prot + text );
+        location.href="http://www.sina.com.cn";
+    }
+</script>
+
+<input type ="button" value="演示window中的对象" onclick="windowObjDemo2()" />
+</body>
+</html>
