@@ -1,5 +1,6 @@
 package wyp;
 
+import javax.servlet.ServletContext;
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
@@ -18,8 +19,9 @@ public class MyServlet4 extends HttpServlet {
     }
 
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
-
-        System.out.println("注解式配置");
+        ServletContext context = getServletContext();
+        Object msg = context.getAttribute("msg");
+        System.out.println("注解式配置..."+msg);
 
     }
 }

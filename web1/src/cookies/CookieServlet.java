@@ -20,10 +20,13 @@ public class CookieServlet extends HttpServlet {
 
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 //        1,创建了一个Cookie对象 默认生命周期：浏览器关闭
-        Cookie cookie = new Cookie("username", "吴云鹏");
+        Cookie cs = new Cookie("username", "吴云鹏");
+        Cookie cs1 = new Cookie("msg", "hello");
 //        1.1 cookie的生命周期：负数-->浏览器内存；0-->失效；正数：生效时间：（秒）
-        cookie.setMaxAge(60*60);
+        cs.setMaxAge(60*60);
+        cs1.setMaxAge(30);
 //        2，给浏览器
-        response.addCookie(cookie);
+        response.addCookie(cs);
+        response.addCookie(cs1);
     }
 }

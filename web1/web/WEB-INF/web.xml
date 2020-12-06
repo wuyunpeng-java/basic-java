@@ -11,23 +11,4 @@
         <servlet-name>my1</servlet-name>
         <url-pattern>/m1</url-pattern>
     </servlet-mapping>
-
-    <servlet>
-        <servlet-name>my2</servlet-name>
-        <servlet-class>wyp.MyServlet2</servlet-class>
-    </servlet>
-    <servlet-mapping>
-        <servlet-name>my2</servlet-name>
-        <url-pattern>/m2</url-pattern>
-    </servlet-mapping>
-
-    <servlet>
-        <servlet-name>my3</servlet-name>
-        <servlet-class>wyp.MyServlet3</servlet-class>
-    </servlet>
-    <servlet-mapping>
-        <servlet-name>my3</servlet-name>
-        <url-pattern>/m3</url-pattern>
-    </servlet-mapping>
-
 </web-app>

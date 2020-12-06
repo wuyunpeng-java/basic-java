@@ -1,4 +1,4 @@
-package com.wyp.productorcustomer;
+package produceAndConsumer;
 
 /**
  *@ author:吴云鹏

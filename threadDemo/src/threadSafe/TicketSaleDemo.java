@@ -1,3 +1,5 @@
+package threadSafe;
+
 /**
  * 创建3个窗口卖票，总数为100张
  */
